@@ -1,15 +1,15 @@
 {
 "Admins":["234567"],
-"ApiKey":"Steam API Key goes here!",
+"ApiKey":"AA8CAF6E66BCD7B1551782E463643EB3",
 "mainLog": "syslog.log",
 "UseSeparateProcesses": "false",
 "AutoStartAllBots": "true",
 "Bots": [
         {
-            "Username":"BOT USERNAME",
-            "Password":"BOT PASSWORD",
-            "DisplayName":"TestBot",
-            "ChatResponse":"Hi there bro",
+            "Username":"guyfox23",
+            "Password":"AD17121996ad",
+            "DisplayName":"Bot",
+            "ChatResponse":"Hi bro",
             "logFile": "TestBot.log",
             "BotControlClass": "SteamBot.SimpleUserHandler",
             "MaximumTradeTime":180,
